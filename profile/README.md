@@ -13,9 +13,8 @@ Welcome to the Learning Hub, your go-to destination for cloned course repositori
 Here are some featured courses and tutorials in this category:
 
 1. [100 days of Boostrap and CSS](https://github.com/martindocs-courses/100days-boostrap5-css): Taking on daily coding challenges using Bootstrap, CSS.
-2. [70js_dsa_traversy](https://github.com/martindocs-courses/70js_dsa_traversy): Challenges & docs from JS Algorithms & Data Structures course.
-3. [css-grid](https://github.com/martindocs-courses/css-grid): Starter Files + Solutions to my CSSGrid.io Course .
-4. [typescript-course](https://github.com/martindocs-courses/typescript-course): Typescript course by Dave Gray.
+2. [css-grid](https://github.com/martindocs-courses/css-grid): Starter Files + Solutions to my CSSGrid.io Course .
+3. [typescript-course](https://github.com/martindocs-courses/typescript-course): Typescript course by Dave Gray.
 
 ## How to Get Involved
 
